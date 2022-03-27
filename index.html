@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -15,7 +15,8 @@ html,body{
 </style>
 </head>
 <body>
-<audio id="musci11" controls="controls" src="js/music.mp3" loop="" muted autoplay style="position: absolute; top: 0; right: 0; z-index: 99999;"></audio>
+<audio controls="controls" src="/music.mp3" loop="" style="position: absolute; top: 0; right: 0; z-index: 99999;"preload="auto" autoplay></audio>
+
 <canvas id="canvas" style="position:absolute;width:100%;height:100%;z-index:8888"></canvas>
 <canvas style="position:absolute;width:100%;height:100%;z-index:9999" class="canvas" ></canvas>
 <div class="overlay">
@@ -314,7 +315,7 @@ window.addEventListener("resize",()=>{
 // initVars();
 frame();
 </script>
-<script src="js/index.js"></script>
-<script src="js/Sakura.js"></script>
+<script src="/index.js"></script>
+<script src="/Sakura.js"></script>
 </body>
 </html>

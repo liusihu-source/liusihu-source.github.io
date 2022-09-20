@@ -1,8 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="519e25e5-f97a-4eac-ae02-e941755a9d21" name="Changes" comment="20220920~lsh~实验室电脑更改一">
+    <list default="true" id="3fb2d253-9ea3-4e9e-9899-cc40603617bc" name="Changes" comment="20220920~lsh~实验室电脑更改三">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_9_20_14_55_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_9_20_14_55__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/3DTiles规范解读.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/3DTiles规范解读.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/3DTiling.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/3DTiling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/CesiumIon.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumIon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/CesiumJS.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumJS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/CesiumLab.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumLab.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/CreateEntities.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CreateEntities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/GeoJson.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/GeoJson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/Visualize3DTerrain.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/Visualize3DTerrain.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/VisualizeImagery.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/VisualizeImagery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/专业英语单词.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/专业英语单词.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/切片.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/切片.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/遥感/使用方式.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/使用方式.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/遥感/基础概论.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/基础概论.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/遥感/常见卫星和影像.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/常见卫星和影像.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIT/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIT/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_sass.md.c85e41c3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_sass.md.c85e41c3.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode.png" beforeDir="false" afterPath="$PROJECT_DIR$/mycode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/基本用法.html" beforeDir="false" afterPath="$PROJECT_DIR$/python/基本用法.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/爬虫.html" beforeDir="false" afterPath="$PROJECT_DIR$/python/爬虫.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/装包.html" beforeDir="false" afterPath="$PROJECT_DIR$/python/装包.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/专业英语/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/专业英语/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他/毕设/本科毕设.html" beforeDir="false" afterPath="$PROJECT_DIR$/其他/毕设/本科毕设.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他/面试/vue/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/其他/面试/vue/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/JS/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/JS/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/axios/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/axios/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/vue/Vue2/生命周期.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/Vue2/生命周期.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/vue/Vue3/vue3快速上手.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/Vue3/vue3快速上手.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/vue/Vue3/生命周期.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/Vue3/生命周期.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/vue/uni-app/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/uni-app/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/vue/共用/VueX.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/VueX.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/vue/共用/babel.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/babel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/vue/共用/editorconfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/editorconfig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/vue/共用/sass.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/sass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/vue/共用/vue-router.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/vue-router.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/vue/共用/watch.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/watch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/vue/共用/指令.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/指令.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/开发规范/开发项目注意事项.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/开发规范/开发项目注意事项.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/样式布局/ElementUI/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/样式布局/ElementUI/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/样式布局/Naive/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/样式布局/Naive/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端/Node/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/Node/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端/java/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/java/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/建模/Revit2019/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/建模/Revit2019/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数学/线代/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/数学/线代/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数学/高数/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/数学/高数/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据库/postgre.html" beforeDir="false" afterPath="$PROJECT_DIR$/数据库/postgre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务器/WEBGIS服务.html" beforeDir="false" afterPath="$PROJECT_DIR$/服务器/WEBGIS服务.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务器/geoserver.html" beforeDir="false" afterPath="$PROJECT_DIR$/服务器/geoserver.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/算法/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件/CorelDraw.html" beforeDir="false" afterPath="$PROJECT_DIR$/软件/CorelDraw.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件/WebStorm.html" beforeDir="false" afterPath="$PROJECT_DIR$/软件/WebStorm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件/catalogue.html" beforeDir="false" afterPath="$PROJECT_DIR$/软件/catalogue.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,49 +67,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="0da7cbe6-20d3-4f34-bed8-a5576573c168" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2F1OvnC3Lh1wWHf6My9Bv7gwRHE" />
+  <component name="ProjectId" id="2F1XOy0YBjYRcKRcEteXZjipkFy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/project/sihuLecture/docs/.vitepress/dist&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/project/sihuLecture/docs/.vitepress/dist",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\sihuLecture\docs\.vitepress\dist" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="519e25e5-f97a-4eac-ae02-e941755a9d21" name="Changes" comment="" />
-      <created>1663656356648</created>
+      <changelist id="3fb2d253-9ea3-4e9e-9899-cc40603617bc" name="Changes" comment="" />
+      <created>1663660535116</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663656356648</updated>
-      <workItem from="1663656357800" duration="687000" />
-      <workItem from="1663657055583" duration="131000" />
+      <updated>1663660535116</updated>
+      <workItem from="1663660536263" duration="366000" />
     </task>
-    <task id="LOCAL-00001" summary="20220920~lsh~实验室电脑更改一">
-      <created>1663656717540</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1663656717540</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,7 +118,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20220920~lsh~实验室电脑更改一" />
-    <option name="LAST_COMMIT_MESSAGE" value="20220920~lsh~实验室电脑更改一" />
+    <MESSAGE value="20220920~lsh~实验室电脑更改三" />
+    <option name="LAST_COMMIT_MESSAGE" value="20220920~lsh~实验室电脑更改三" />
   </component>
 </project>

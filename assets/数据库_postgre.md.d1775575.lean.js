@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,b as s}from"./app.58847e2b.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"\u6570\u636E\u5E93/postgre.md"}'),a={name:"\u6570\u636E\u5E93/postgre.md"},r=s("p",null,"coming...",-1),n=[r];function c(p,_,d,i,l,m){return o(),t("div",null,n)}const g=e(a,[["render",c]]);export{u as __pageData,g as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as i,a}from"./app.6aa74d9a.js";const m=JSON.parse('{"title":"\u7B14\u8BB0","description":"","frontmatter":{},"headers":[],"relativePath":"GIS/Cesium/\u5207\u7247.md"}'),l={name:"GIS/Cesium/\u5207\u7247.md"},o=a("",2),_=[o];function s(r,c,n,d,u,h){return i(),t("div",null,_)}const f=e(l,[["render",s]]);export{m as __pageData,f as default};

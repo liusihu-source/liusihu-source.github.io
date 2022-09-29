@@ -3,160 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4cf8fcd9-58e9-4bbf-afa3-cbae3b541be4" name="Changes" comment="20220929~lsh~实验室电脑更改五">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/Cesium/3DTiles规范解读.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/3DTiles规范解读.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/Cesium/3DTiling.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/3DTiling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/Cesium/CesiumIon.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumIon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/Cesium/CesiumJS.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumJS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/Cesium/CesiumLab.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumLab.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/Cesium/CreateEntities.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CreateEntities.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/Cesium/GeoJson.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/GeoJson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/Cesium/Visualize3DTerrain.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/Visualize3DTerrain.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/Cesium/VisualizeImagery.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/VisualizeImagery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/Cesium/专业英语单词.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/专业英语单词.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/Cesium/切片.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/切片.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/遥感/使用方式.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/遥感/基础概论.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/基础概论.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIS/遥感/常见卫星和影像.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/常见卫星和影像.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIT/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIT/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/13.352645a2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_3DTiles规范解读.md.7c8c6f9d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_3DTiles规范解读.md.7c8c6f9d.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_3DTiling.md.557ef7cf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_3DTiling.md.557ef7cf.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumIon.md.932f8394.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumIon.md.932f8394.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumJS.md.3197bd23.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumJS.md.3197bd23.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumLab.md.4639a137.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumLab.md.4639a137.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_CreateEntities.md.283763d0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_CreateEntities.md.283763d0.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_GeoJson.md.15c79c04.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_GeoJson.md.15c79c04.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_Visualize3DTerrain.md.997d383b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_Visualize3DTerrain.md.997d383b.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_VisualizeImagery.md.60014301.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_VisualizeImagery.md.60014301.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_专业英语单词.md.928d79da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_专业英语单词.md.928d79da.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_切片.md.7d5a2207.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_切片.md.7d5a2207.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_遥感_使用方式.md.78cb6d36.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_遥感_使用方式.md.78cb6d36.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_遥感_基础概论.md.e284edbc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_遥感_基础概论.md.e284edbc.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_遥感_常见卫星和影像.md.6c38733a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIS_遥感_常见卫星和影像.md.6c38733a.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIT_lecture.md.302a9fd4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/GIT_lecture.md.302a9fd4.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/app.6aa74d9a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.md.5d0c14fb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.md.5d0c14fb.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/python_基本用法.md.56ad5022.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/python_基本用法.md.56ad5022.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/python_爬虫.md.c25a0e48.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/python_爬虫.md.c25a0e48.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/python_装包.md.2c3f67de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/python_装包.md.2c3f67de.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/专业英语_lecture.md.5165727b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/专业英语_lecture.md.5165727b.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/其他_毕设_本科毕设.md.0c386556.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/其他_毕设_本科毕设.md.0c386556.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/其他_面试_vue_lecture.md.b687c2a9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/其他_面试_vue_lecture.md.b687c2a9.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_JS_lecture.md.176bb7d1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_JS_lecture.md.176bb7d1.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_axios_lecture.md.a660fad4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_axios_lecture.md.a660fad4.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_Vue2_生命周期.md.d35ef2d2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_Vue2_生命周期.md.d35ef2d2.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_Vue3_vue3快速上手.md.83bd30fe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_Vue3_vue3快速上手.md.83bd30fe.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_Vue3_生命周期.md.988bca3e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_Vue3_生命周期.md.988bca3e.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_uni-app_lecture.md.7bf393e4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_uni-app_lecture.md.7bf393e4.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_VueX.md.6c436dde.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_VueX.md.6c436dde.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_babel.md.3c509767.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_babel.md.3c509767.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_editorconfig.md.ff8941fb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_editorconfig.md.ff8941fb.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_sass.md.5fe65b64.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_sass.md.5fe65b64.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_vue-router.md.3187925d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_vue-router.md.3187925d.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_watch.md.d59486b4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_watch.md.d59486b4.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_指令.md.6d26b823.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_vue_共用_指令.md.6d26b823.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_开发规范_开发项目注意事项.md.114b9268.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_开发规范_开发项目注意事项.md.114b9268.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_样式布局_ElementUI_lecture.md.32d226df.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_样式布局_ElementUI_lecture.md.32d226df.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_样式布局_Naive_lecture.md.09534898.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_样式布局_Naive_lecture.md.09534898.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/后端_Node_lecture.md.a300d261.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/后端_Node_lecture.md.a300d261.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/后端_java_lecture.md.5a36de18.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/后端_java_lecture.md.5a36de18.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/建模_Revit2019_lecture.md.375007ac.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/建模_Revit2019_lecture.md.375007ac.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/数学_线代_lecture.md.df72bb65.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/数学_线代_lecture.md.df72bb65.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/数学_高数_lecture.md.a3ce0e37.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/数学_高数_lecture.md.a3ce0e37.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/数据库_postgre.md.a264fd17.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/数据库_postgre.md.a264fd17.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/服务器_WEBGIS服务.md.057bc2e2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/服务器_WEBGIS服务.md.057bc2e2.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/服务器_geoserver.md.b9050f62.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/服务器_geoserver.md.b9050f62.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/算法_lecture.md.602e0864.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/算法_lecture.md.602e0864.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/软件_CorelDraw.md.7253b41e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/软件_CorelDraw.md.7253b41e.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/软件_WebStorm.md.12a30ae3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/软件_WebStorm.md.12a30ae3.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/软件_catalogue.md.8ead5556.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/软件_catalogue.md.8ead5556.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/基本用法.html" beforeDir="false" afterPath="$PROJECT_DIR$/python/基本用法.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/爬虫.html" beforeDir="false" afterPath="$PROJECT_DIR$/python/爬虫.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/装包.html" beforeDir="false" afterPath="$PROJECT_DIR$/python/装包.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/专业英语/lecture.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/其他/毕设/本科毕设.html" beforeDir="false" afterPath="$PROJECT_DIR$/其他/毕设/本科毕设.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/其他/面试/vue/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/其他/面试/vue/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/JS/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/JS/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/axios/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/axios/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/vue/Vue2/生命周期.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/Vue2/生命周期.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/vue/Vue3/vue3快速上手.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/Vue3/vue3快速上手.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/vue/Vue3/生命周期.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/Vue3/生命周期.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/vue/uni-app/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/uni-app/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/vue/共用/VueX.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/VueX.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/vue/共用/babel.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/babel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/vue/共用/editorconfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/editorconfig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/vue/共用/sass.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/sass.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/vue/共用/vue-router.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/vue-router.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/vue/共用/watch.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/watch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/vue/共用/指令.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vue/共用/指令.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/开发规范/开发项目注意事项.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/开发规范/开发项目注意事项.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/样式布局/ElementUI/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/样式布局/ElementUI/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端/样式布局/Naive/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/样式布局/Naive/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/Node/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/Node/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/后端/java/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/java/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/建模/Revit2019/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/建模/Revit2019/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数学/线代/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/数学/线代/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数学/高数/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/数学/高数/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据库/postgre.html" beforeDir="false" afterPath="$PROJECT_DIR$/数据库/postgre.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/服务器/WEBGIS服务.html" beforeDir="false" afterPath="$PROJECT_DIR$/服务器/WEBGIS服务.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/服务器/geoserver.html" beforeDir="false" afterPath="$PROJECT_DIR$/服务器/geoserver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/算法/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件/CorelDraw.html" beforeDir="false" afterPath="$PROJECT_DIR$/软件/CorelDraw.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件/WebStorm.html" beforeDir="false" afterPath="$PROJECT_DIR$/软件/WebStorm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件/catalogue.html" beforeDir="false" afterPath="$PROJECT_DIR$/软件/catalogue.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +25,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/project/sihuLecture/docs/.vitepress/dist",
+    "last_opened_file_path": "E:/project/sihuLecture",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -192,8 +38,16 @@
       <option name="presentableId" value="Default" />
       <updated>1664449812357</updated>
       <workItem from="1664449813537" duration="57000" />
-      <workItem from="1664449969413" duration="1066000" />
+      <workItem from="1664449969413" duration="1720000" />
     </task>
+    <task id="LOCAL-00001" summary="20220929~lsh~实验室电脑更改五">
+      <created>1664452537632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664452537632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

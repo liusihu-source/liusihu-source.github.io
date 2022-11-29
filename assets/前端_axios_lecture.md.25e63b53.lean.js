@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.d13e8ac4.js";const C=JSON.parse('{"title":"axios --\u7B14\u8BB0","description":"","frontmatter":{},"headers":[],"relativePath":"\u524D\u7AEF/axios/lecture.md"}'),p={name:"\u524D\u7AEF/axios/lecture.md"},o=l("",2),e=[o];function c(t,F,r,y,D,A){return a(),n("div",null,e)}const E=s(p,[["render",c]]);export{C as __pageData,E as default};

@@ -8,7 +8,25 @@
     <link rel="stylesheet" href="/assets/style.c48775ea.css">
     <link rel="modulepreload" href="/assets/app.3b7b9d27.js">
     <link rel="modulepreload" href="/assets/index.md.ff17127a.lean.js">
-    
+    <script id="check-dark-light">(()=>{
+        const e=localStorage.getItem("vitepress-theme-appearance"),a=window.matchMedia("(prefers-color-scheme: dark)").matches;(!e||e==="auto"?a:e==="dark")&&document.documentElement.classList.add("dark")
+        window.onload = function (){
+            const showHuTime = function () {
+                const nowtime = new Date(),  //获取当前时间
+                    endtime = new Date("2022/9/9 0:00:00");  //定义结束时间
+                const lefttime = nowtime.getTime() - endtime.getTime(),  //距离结束时间的毫秒数
+                    leftd = Math.floor(lefttime/(1000*60*60*24)),  //计算天数
+                    lefth = Math.floor(lefttime/(1000*60*60)%24),  //计算小时数
+                    leftm = Math.floor(lefttime/(1000*60)%60),  //计算分钟数
+                    lefts = Math.floor(lefttime/1000%60);  //计算秒数
+                return "本网站已运行:" + leftd + "天" + lefth + "小时" + leftm + "分" + lefts + "秒";  //返回倒计时的字符串
+            }
+            let sihuDiv = document.getElementById("showSihuTime");
+            setInterval (function () {
+                sihuDiv.innerText = showHuTime();
+            }, 1000);
+        }
+    })();</script>
     <script id="check-dark-light">(()=>{const e=localStorage.getItem("vitepress-theme-appearance"),a=window.matchMedia("(prefers-color-scheme: dark)").matches;(!e||e==="auto"?a:e==="dark")&&document.documentElement.classList.add("dark")})();</script>
   </head>
   <body>

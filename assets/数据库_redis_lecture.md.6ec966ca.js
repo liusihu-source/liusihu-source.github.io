@@ -1,0 +1,5 @@
+import{_ as s,c as e,o as a,a as n}from"./app.3b7b9d27.js";const h=JSON.parse('{"title":"Redis --\u7B14\u8BB0","description":"","frontmatter":{},"headers":[],"relativePath":"\u6570\u636E\u5E93/redis/lecture.md"}'),t={name:"\u6570\u636E\u5E93/redis/lecture.md"},r=n(`<h1 id="redis-\u7B14\u8BB0" tabindex="-1">Redis --\u7B14\u8BB0 <a class="header-anchor" href="#redis-\u7B14\u8BB0" aria-hidden="true">#</a></h1><div class="language-"><button class="copy"></button><span class="lang"></span><pre><code><span class="line"><span style="color:#A6ACCD;">redis-cli.exe -a sjktz</span></span>
+<span class="line"><span style="color:#A6ACCD;">shutdown</span></span>
+<span class="line"><span style="color:#A6ACCD;">exit</span></span>
+<span class="line"><span style="color:#A6ACCD;">redis-server.exe redis.windows.conf</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div>`,2),c=[r];function o(l,p,i,d,_,u){return a(),e("div",null,c)}const C=s(t,[["render",o]]);export{h as __pageData,C as default};

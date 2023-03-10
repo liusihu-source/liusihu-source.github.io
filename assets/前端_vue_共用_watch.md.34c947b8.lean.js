@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.be2db5e6.js";const i=JSON.parse('{"title":"Vue Watch --笔记","description":"","frontmatter":{},"headers":[],"relativePath":"前端/vue/共用/watch.md","lastUpdated":1667130584000}'),p={name:"前端/vue/共用/watch.md"},o=l("",6),e=[o];function t(c,r,F,y,D,C){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};

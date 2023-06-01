@@ -1,1 +1,0 @@
-import{_ as l,c as i,o as e,a}from"./app.637d915c.js";const h=JSON.parse('{"title":"软件目录 --笔记","description":"","frontmatter":{},"headers":[],"relativePath":"软件/catalogue.md","lastUpdated":1667130584000}'),t={name:"软件/catalogue.md"},o=a("",2),r=[o];function s(u,c,d,_,n,p){return e(),i("div",null,r)}const f=l(t,[["render",s]]);export{h as __pageData,f as default};

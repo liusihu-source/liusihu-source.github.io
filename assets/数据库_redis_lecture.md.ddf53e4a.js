@@ -1,5 +1,0 @@
-import{_ as s,c as e,o as a,a as n}from"./app.06eac777.js";const u=JSON.parse('{"title":"Redis --笔记","description":"","frontmatter":{},"headers":[],"relativePath":"数据库/redis/lecture.md","lastUpdated":1667130584000}'),t={name:"数据库/redis/lecture.md"},r=n(`<h1 id="redis-笔记" tabindex="-1">Redis --笔记 <a class="header-anchor" href="#redis-笔记" aria-hidden="true">#</a></h1><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki material-theme-palenight" tabindex="0"><code><span class="line"><span style="color:#A6ACCD;">redis-cli.exe -a sjktz</span></span>
-<span class="line"><span style="color:#A6ACCD;">shutdown</span></span>
-<span class="line"><span style="color:#A6ACCD;">exit</span></span>
-<span class="line"><span style="color:#A6ACCD;">redis-server.exe redis.windows.conf</span></span>
-<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div>`,2),c=[r];function l(o,i,p,d,_,h){return a(),e("div",null,c)}const A=s(t,[["render",l]]);export{u as __pageData,A as default};

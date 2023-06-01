@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as i}from"./app.06eac777.js";const m=JSON.parse('{"title":"切片 --笔记","description":"","frontmatter":{},"headers":[],"relativePath":"GIS/Cesium/切片.md","lastUpdated":1667130584000}'),l={name:"GIS/Cesium/切片.md"},o=i("",2),_=[o];function s(r,c,n,d,u,p){return a(),t("div",null,_)}const f=e(l,[["render",s]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.02589403.js";const C=JSON.parse('{"title":"axios --笔记","description":"","frontmatter":{},"headers":[],"relativePath":"前端/axios/lecture.md","lastUpdated":1667130584000}'),p={name:"前端/axios/lecture.md"},o=l("",2),e=[o];function c(t,F,r,y,D,i){return a(),n("div",null,e)}const d=s(p,[["render",c]]);export{C as __pageData,d as default};

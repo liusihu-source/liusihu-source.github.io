@@ -1,0 +1,7 @@
+import{_ as e,o as s,c as a,Q as n}from"./chunks/framework.a7175731.js";const f=JSON.parse('{"title":"Redis --笔记","description":"","frontmatter":{},"headers":[],"relativePath":"数据库/redis/lecture.md","filePath":"数据库/redis/lecture.md","lastUpdated":null}'),t={name:"数据库/redis/lecture.md"},l=n(`<h1 id="redis-笔记" tabindex="-1">Redis --笔记 <a class="header-anchor" href="#redis-笔记" aria-label="Permalink to &quot;Redis --笔记&quot;">​</a></h1><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki github-dark vp-code-dark"><code><span class="line"><span style="color:#e1e4e8;">redis-cli.exe -a sjktz</span></span>
+<span class="line"><span style="color:#e1e4e8;">shutdown</span></span>
+<span class="line"><span style="color:#e1e4e8;">exit</span></span>
+<span class="line"><span style="color:#e1e4e8;">redis-server.exe redis.windows.conf</span></span></code></pre><pre class="shiki github-light vp-code-light"><code><span class="line"><span style="color:#24292e;">redis-cli.exe -a sjktz</span></span>
+<span class="line"><span style="color:#24292e;">shutdown</span></span>
+<span class="line"><span style="color:#24292e;">exit</span></span>
+<span class="line"><span style="color:#24292e;">redis-server.exe redis.windows.conf</span></span></code></pre></div>`,2),o=[l];function c(i,r,p,d,_,h){return s(),a("div",null,o)}const m=e(t,[["render",c]]);export{f as __pageData,m as default};

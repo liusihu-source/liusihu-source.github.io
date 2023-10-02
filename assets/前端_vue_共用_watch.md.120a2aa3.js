@@ -1,0 +1,99 @@
+import{_ as s,o as n,c as a,Q as l}from"./chunks/framework.a7175731.js";const u=JSON.parse('{"title":"Vue Watch --笔记","description":"","frontmatter":{},"headers":[],"relativePath":"前端/vue/共用/watch.md","filePath":"前端/vue/共用/watch.md","lastUpdated":null}'),p={name:"前端/vue/共用/watch.md"},o=l(`<h1 id="vue-watch-笔记" tabindex="-1">Vue Watch --笔记 <a class="header-anchor" href="#vue-watch-笔记" aria-label="Permalink to &quot;Vue Watch --笔记&quot;">​</a></h1><p>用来监听单一数据，仅在数据发生变化时候才执行</p><ul><li>data内部的数据，</li><li>父组件传来props中的数据</li><li>监听路由router</li></ul><div class="language-javascript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">javascript</span><pre class="shiki github-dark vp-code-dark"><code><span class="line"><span style="color:#6A737D;">//语法</span></span>
+<span class="line"><span style="color:#B392F0;">watch</span><span style="color:#E1E4E8;">: {</span></span>
+<span class="line"><span style="color:#E1E4E8;">    </span><span style="color:#B392F0;">key1</span><span style="color:#E1E4E8;">: </span><span style="color:#F97583;">function</span><span style="color:#E1E4E8;">(</span><span style="color:#FFAB70;">newVal</span><span style="color:#E1E4E8;">, </span><span style="color:#FFAB70;">oldVal</span><span style="color:#E1E4E8;">) {</span></span>
+<span class="line"><span style="color:#E1E4E8;">        console.</span><span style="color:#B392F0;">log</span><span style="color:#E1E4E8;">(newVal, oldVal)</span></span>
+<span class="line"><span style="color:#E1E4E8;">    },</span></span>
+<span class="line"><span style="color:#E1E4E8;">    </span><span style="color:#B392F0;">key2</span><span style="color:#E1E4E8;">:{</span></span>
+<span class="line"><span style="color:#E1E4E8;">        </span><span style="color:#B392F0;">handler</span><span style="color:#E1E4E8;">: </span><span style="color:#F97583;">function</span><span style="color:#E1E4E8;">(</span><span style="color:#FFAB70;">newVal</span><span style="color:#E1E4E8;">, </span><span style="color:#FFAB70;">oldVal</span><span style="color:#E1E4E8;">) {</span></span>
+<span class="line"><span style="color:#E1E4E8;">            console.</span><span style="color:#B392F0;">log</span><span style="color:#E1E4E8;">(newVal, oldVal)</span></span>
+<span class="line"><span style="color:#E1E4E8;">        },</span></span>
+<span class="line"><span style="color:#E1E4E8;">        </span><span style="color:#B392F0;">deep</span><span style="color:#E1E4E8;">: </span><span style="color:#79B8FF;">true</span><span style="color:#E1E4E8;">  </span><span style="color:#6A737D;">//深度监听，用于当监听变量是一个对象时候使用</span></span>
+<span class="line"><span style="color:#E1E4E8;">    }</span></span>
+<span class="line"><span style="color:#E1E4E8;">}</span></span></code></pre><pre class="shiki github-light vp-code-light"><code><span class="line"><span style="color:#6A737D;">//语法</span></span>
+<span class="line"><span style="color:#6F42C1;">watch</span><span style="color:#24292E;">: {</span></span>
+<span class="line"><span style="color:#24292E;">    </span><span style="color:#6F42C1;">key1</span><span style="color:#24292E;">: </span><span style="color:#D73A49;">function</span><span style="color:#24292E;">(</span><span style="color:#E36209;">newVal</span><span style="color:#24292E;">, </span><span style="color:#E36209;">oldVal</span><span style="color:#24292E;">) {</span></span>
+<span class="line"><span style="color:#24292E;">        console.</span><span style="color:#6F42C1;">log</span><span style="color:#24292E;">(newVal, oldVal)</span></span>
+<span class="line"><span style="color:#24292E;">    },</span></span>
+<span class="line"><span style="color:#24292E;">    </span><span style="color:#6F42C1;">key2</span><span style="color:#24292E;">:{</span></span>
+<span class="line"><span style="color:#24292E;">        </span><span style="color:#6F42C1;">handler</span><span style="color:#24292E;">: </span><span style="color:#D73A49;">function</span><span style="color:#24292E;">(</span><span style="color:#E36209;">newVal</span><span style="color:#24292E;">, </span><span style="color:#E36209;">oldVal</span><span style="color:#24292E;">) {</span></span>
+<span class="line"><span style="color:#24292E;">            console.</span><span style="color:#6F42C1;">log</span><span style="color:#24292E;">(newVal, oldVal)</span></span>
+<span class="line"><span style="color:#24292E;">        },</span></span>
+<span class="line"><span style="color:#24292E;">        </span><span style="color:#6F42C1;">deep</span><span style="color:#24292E;">: </span><span style="color:#005CC5;">true</span><span style="color:#24292E;">  </span><span style="color:#6A737D;">//深度监听，用于当监听变量是一个对象时候使用</span></span>
+<span class="line"><span style="color:#24292E;">    }</span></span>
+<span class="line"><span style="color:#24292E;">}</span></span></code></pre></div><ul><li>demo</li></ul><div class="language-vue vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">vue</span><pre class="shiki github-dark vp-code-dark"><code><span class="line"><span style="color:#E1E4E8;">&lt;</span><span style="color:#85E89D;">template</span><span style="color:#E1E4E8;">&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8;">  &lt;</span><span style="color:#85E89D;">div</span><span style="color:#E1E4E8;"> </span><span style="color:#B392F0;">class</span><span style="color:#E1E4E8;">=</span><span style="color:#9ECBFF;">&quot;parent&quot;</span><span style="color:#E1E4E8;">&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8;">    {{msg}}</span></span>
+<span class="line"><span style="color:#E1E4E8;">    &lt;</span><span style="color:#85E89D;">div</span><span style="color:#E1E4E8;">&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8;">    	&lt;</span><span style="color:#85E89D;">input</span><span style="color:#E1E4E8;"> </span><span style="color:#B392F0;">type</span><span style="color:#E1E4E8;">=</span><span style="color:#9ECBFF;">&quot;text&quot;</span><span style="color:#E1E4E8;"> </span><span style="color:#B392F0;">v-model</span><span style="color:#E1E4E8;">=</span><span style="color:#9ECBFF;">&quot;obj1.user&quot;</span><span style="color:#E1E4E8;">&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8;">    &lt;/</span><span style="color:#85E89D;">div</span><span style="color:#E1E4E8;">&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8;">  &lt;/</span><span style="color:#85E89D;">div</span><span style="color:#E1E4E8;">&gt;</span></span>
+<span class="line"><span style="color:#E1E4E8;">&lt;/</span><span style="color:#85E89D;">template</span><span style="color:#E1E4E8;">&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#E1E4E8;">&lt;</span><span style="color:#85E89D;">script</span><span style="color:#E1E4E8;">&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583;">export</span><span style="color:#E1E4E8;"> </span><span style="color:#F97583;">default</span><span style="color:#E1E4E8;"> {</span></span>
+<span class="line"><span style="color:#E1E4E8;">  name: </span><span style="color:#9ECBFF;">&#39;parent&#39;</span><span style="color:#E1E4E8;">,</span></span>
+<span class="line"><span style="color:#E1E4E8;">  </span><span style="color:#B392F0;">data</span><span style="color:#E1E4E8;">() {</span></span>
+<span class="line"><span style="color:#E1E4E8;">    </span><span style="color:#F97583;">return</span><span style="color:#E1E4E8;"> {</span></span>
+<span class="line"><span style="color:#E1E4E8;">      msg: </span><span style="color:#9ECBFF;">&#39;hello!&#39;</span><span style="color:#E1E4E8;">,</span></span>
+<span class="line"><span style="color:#E1E4E8;">      obj1: {</span></span>
+<span class="line"><span style="color:#E1E4E8;">          user: </span><span style="color:#9ECBFF;">&#39;小虎&#39;</span></span>
+<span class="line"><span style="color:#E1E4E8;">      }</span></span>
+<span class="line"><span style="color:#E1E4E8;">    }</span></span>
+<span class="line"><span style="color:#E1E4E8;">  },</span></span>
+<span class="line"><span style="color:#E1E4E8;">  methods: {</span></span>
+<span class="line"><span style="color:#E1E4E8;">  },</span></span>
+<span class="line"><span style="color:#E1E4E8;">  watch: {</span></span>
+<span class="line"><span style="color:#E1E4E8;">      </span><span style="color:#B392F0;">msg</span><span style="color:#E1E4E8;">: </span><span style="color:#F97583;">function</span><span style="color:#E1E4E8;"> (</span><span style="color:#FFAB70;">newVal</span><span style="color:#E1E4E8;">, </span><span style="color:#FFAB70;">oldVal</span><span style="color:#E1E4E8;">) {</span></span>
+<span class="line"><span style="color:#E1E4E8;">          console.</span><span style="color:#B392F0;">log</span><span style="color:#E1E4E8;">(newVal, oldVal)</span></span>
+<span class="line"><span style="color:#E1E4E8;">      },</span></span>
+<span class="line"><span style="color:#E1E4E8;">      obj1: {</span></span>
+<span class="line"><span style="color:#E1E4E8;">          </span><span style="color:#B392F0;">handler</span><span style="color:#E1E4E8;">: </span><span style="color:#F97583;">function</span><span style="color:#E1E4E8;">(</span><span style="color:#FFAB70;">newVal</span><span style="color:#E1E4E8;">, </span><span style="color:#FFAB70;">oldVal</span><span style="color:#E1E4E8;">) {</span></span>
+<span class="line"><span style="color:#E1E4E8;">            console.</span><span style="color:#B392F0;">log</span><span style="color:#E1E4E8;">(newVal, oldVal)</span></span>
+<span class="line"><span style="color:#E1E4E8;">        },</span></span>
+<span class="line"><span style="color:#E1E4E8;">        deep: </span><span style="color:#79B8FF;">true</span><span style="color:#E1E4E8;">  </span><span style="color:#6A737D;">//深度监听，用于当监听变量是一个对象时候使用</span></span>
+<span class="line"><span style="color:#E1E4E8;">      },</span></span>
+<span class="line"><span style="color:#E1E4E8;">      </span><span style="color:#9ECBFF;">&#39;$router.path&#39;</span><span style="color:#E1E4E8;">(</span><span style="color:#FFAB70;">newVal</span><span style="color:#E1E4E8;">, </span><span style="color:#FFAB70;">oldVal</span><span style="color:#E1E4E8;">) {</span></span>
+<span class="line"><span style="color:#E1E4E8;">          console.</span><span style="color:#B392F0;">log</span><span style="color:#E1E4E8;">(newVal, oldVal)  </span><span style="color:#6A737D;">//可用于监听路由</span></span>
+<span class="line"><span style="color:#E1E4E8;">      }</span></span>
+<span class="line"><span style="color:#E1E4E8;">  }</span></span>
+<span class="line"><span style="color:#E1E4E8;">}</span></span>
+<span class="line"><span style="color:#E1E4E8;">&lt;/</span><span style="color:#85E89D;">script</span><span style="color:#E1E4E8;">&gt;</span></span></code></pre><pre class="shiki github-light vp-code-light"><code><span class="line"><span style="color:#24292E;">&lt;</span><span style="color:#22863A;">template</span><span style="color:#24292E;">&gt;</span></span>
+<span class="line"><span style="color:#24292E;">  &lt;</span><span style="color:#22863A;">div</span><span style="color:#24292E;"> </span><span style="color:#6F42C1;">class</span><span style="color:#24292E;">=</span><span style="color:#032F62;">&quot;parent&quot;</span><span style="color:#24292E;">&gt;</span></span>
+<span class="line"><span style="color:#24292E;">    {{msg}}</span></span>
+<span class="line"><span style="color:#24292E;">    &lt;</span><span style="color:#22863A;">div</span><span style="color:#24292E;">&gt;</span></span>
+<span class="line"><span style="color:#24292E;">    	&lt;</span><span style="color:#22863A;">input</span><span style="color:#24292E;"> </span><span style="color:#6F42C1;">type</span><span style="color:#24292E;">=</span><span style="color:#032F62;">&quot;text&quot;</span><span style="color:#24292E;"> </span><span style="color:#6F42C1;">v-model</span><span style="color:#24292E;">=</span><span style="color:#032F62;">&quot;obj1.user&quot;</span><span style="color:#24292E;">&gt;</span></span>
+<span class="line"><span style="color:#24292E;">    &lt;/</span><span style="color:#22863A;">div</span><span style="color:#24292E;">&gt;</span></span>
+<span class="line"><span style="color:#24292E;">  &lt;/</span><span style="color:#22863A;">div</span><span style="color:#24292E;">&gt;</span></span>
+<span class="line"><span style="color:#24292E;">&lt;/</span><span style="color:#22863A;">template</span><span style="color:#24292E;">&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#24292E;">&lt;</span><span style="color:#22863A;">script</span><span style="color:#24292E;">&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#D73A49;">export</span><span style="color:#24292E;"> </span><span style="color:#D73A49;">default</span><span style="color:#24292E;"> {</span></span>
+<span class="line"><span style="color:#24292E;">  name: </span><span style="color:#032F62;">&#39;parent&#39;</span><span style="color:#24292E;">,</span></span>
+<span class="line"><span style="color:#24292E;">  </span><span style="color:#6F42C1;">data</span><span style="color:#24292E;">() {</span></span>
+<span class="line"><span style="color:#24292E;">    </span><span style="color:#D73A49;">return</span><span style="color:#24292E;"> {</span></span>
+<span class="line"><span style="color:#24292E;">      msg: </span><span style="color:#032F62;">&#39;hello!&#39;</span><span style="color:#24292E;">,</span></span>
+<span class="line"><span style="color:#24292E;">      obj1: {</span></span>
+<span class="line"><span style="color:#24292E;">          user: </span><span style="color:#032F62;">&#39;小虎&#39;</span></span>
+<span class="line"><span style="color:#24292E;">      }</span></span>
+<span class="line"><span style="color:#24292E;">    }</span></span>
+<span class="line"><span style="color:#24292E;">  },</span></span>
+<span class="line"><span style="color:#24292E;">  methods: {</span></span>
+<span class="line"><span style="color:#24292E;">  },</span></span>
+<span class="line"><span style="color:#24292E;">  watch: {</span></span>
+<span class="line"><span style="color:#24292E;">      </span><span style="color:#6F42C1;">msg</span><span style="color:#24292E;">: </span><span style="color:#D73A49;">function</span><span style="color:#24292E;"> (</span><span style="color:#E36209;">newVal</span><span style="color:#24292E;">, </span><span style="color:#E36209;">oldVal</span><span style="color:#24292E;">) {</span></span>
+<span class="line"><span style="color:#24292E;">          console.</span><span style="color:#6F42C1;">log</span><span style="color:#24292E;">(newVal, oldVal)</span></span>
+<span class="line"><span style="color:#24292E;">      },</span></span>
+<span class="line"><span style="color:#24292E;">      obj1: {</span></span>
+<span class="line"><span style="color:#24292E;">          </span><span style="color:#6F42C1;">handler</span><span style="color:#24292E;">: </span><span style="color:#D73A49;">function</span><span style="color:#24292E;">(</span><span style="color:#E36209;">newVal</span><span style="color:#24292E;">, </span><span style="color:#E36209;">oldVal</span><span style="color:#24292E;">) {</span></span>
+<span class="line"><span style="color:#24292E;">            console.</span><span style="color:#6F42C1;">log</span><span style="color:#24292E;">(newVal, oldVal)</span></span>
+<span class="line"><span style="color:#24292E;">        },</span></span>
+<span class="line"><span style="color:#24292E;">        deep: </span><span style="color:#005CC5;">true</span><span style="color:#24292E;">  </span><span style="color:#6A737D;">//深度监听，用于当监听变量是一个对象时候使用</span></span>
+<span class="line"><span style="color:#24292E;">      },</span></span>
+<span class="line"><span style="color:#24292E;">      </span><span style="color:#032F62;">&#39;$router.path&#39;</span><span style="color:#24292E;">(</span><span style="color:#E36209;">newVal</span><span style="color:#24292E;">, </span><span style="color:#E36209;">oldVal</span><span style="color:#24292E;">) {</span></span>
+<span class="line"><span style="color:#24292E;">          console.</span><span style="color:#6F42C1;">log</span><span style="color:#24292E;">(newVal, oldVal)  </span><span style="color:#6A737D;">//可用于监听路由</span></span>
+<span class="line"><span style="color:#24292E;">      }</span></span>
+<span class="line"><span style="color:#24292E;">  }</span></span>
+<span class="line"><span style="color:#24292E;">}</span></span>
+<span class="line"><span style="color:#24292E;">&lt;/</span><span style="color:#22863A;">script</span><span style="color:#24292E;">&gt;</span></span></code></pre></div>`,6),e=[o];function c(t,E,r,y,i,d){return n(),a("div",null,e)}const g=s(p,[["render",c]]);export{u as __pageData,g as default};

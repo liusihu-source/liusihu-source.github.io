@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e4ff816-2324-45c2-ad25-4f4b61ea1841" name="更改" comment="">
+    <list default="true" id="9420335a-0300-4f7d-8a88-be03e51745ab" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker/Docker.html" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Docker.html" afterDir="false" />
@@ -24,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/GIS/Cesium/问题总结.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/问题总结.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/GIS常用坐标系及空间分析/GIS常用空间分析.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/GIS常用坐标系及空间分析/GIS常用空间分析.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/GIS常用坐标系及空间分析/常用坐标系及EPSG.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/GIS常用坐标系及空间分析/常用坐标系及EPSG.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/GIS数学相关/ArcMap数学相关.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/GIS数学相关/ArcMap数学相关.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/GeoJson/GeoJson格式解读.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/GeoJson/GeoJson格式解读.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/OGC服务/ArcgisServer.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/OGC服务/ArcgisServer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/OGC服务/GeoserverWFS.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/OGC服务/GeoserverWFS.html" afterDir="false" />
@@ -35,14 +36,12 @@
       <change beforePath="$PROJECT_DIR$/GIS/遥感/基础概论.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/基础概论.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/遥感/常见卫星和影像.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/常见卫星和影像.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIT/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIT/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/app.c180d8fc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.50ecc958.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.9d07ff77.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/theme.dee965d0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_JS_基础_JS基础.md.1a521bf7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/前端_JS_基础_JS基础.md.1a521bf7.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/后端_Node_NodeJS简介.md.b959af2b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/后端_Node_NodeJS简介.md.b959af2b.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app.df510153.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.926964dd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.b8429708.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/theme.ac647cbd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.md.b76f115c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.md.b76f115c.lean.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python/Geo相关/GeoPandas.html" beforeDir="false" afterPath="$PROJECT_DIR$/python/Geo相关/GeoPandas.html" afterDir="false" />
@@ -63,6 +62,7 @@
       <change beforePath="$PROJECT_DIR$/个人/个人/基本介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/个人/基本介绍.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/个人/小作品.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/个人/小作品.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/个人/本科毕设.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/个人/本科毕设.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/个人/其他/2023前端生态.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/2023前端生态.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/其他/WEBGIS随心笔记.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/WEBGIS随心笔记.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/其他/jeecgVue.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/jeecgVue.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/常识/GIS及计算机.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/常识/GIS及计算机.html" afterDir="false" />
@@ -87,6 +87,8 @@
       <change beforePath="$PROJECT_DIR$/前端/axios/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/axios/lecture.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/html/H5.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/html/H5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/html/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/html/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/react/nextjs.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/react/nextjs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/react/初识react.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/react/初识react.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/typescript/笔记.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/typescript/笔记.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/vite/Vite.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vite/Vite.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/vite/ViteSvg.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/vite/ViteSvg.html" afterDir="false" />
@@ -122,8 +124,11 @@
       <change beforePath="$PROJECT_DIR$/前端/浏览器/chrome/chrome120版本.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/浏览器/chrome/chrome120版本.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/浏览器/调试技巧/调试技巧.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/浏览器/调试技巧/调试技巧.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/后端/Node/JWT.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/Node/JWT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端/Node/Nest.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/Node/Nest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端/Node/NodeJS实用总结.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/Node/NodeJS实用总结.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/后端/Node/NodeJS简介.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/Node/NodeJS简介.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/后端/Node/后端简单案例.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/Node/后端简单案例.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/后端/Node/异步工作.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/Node/异步工作.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/后端/java/File类与IO流.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/java/File类与IO流.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/后端/java/IDEA配置.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/java/IDEA配置.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/后端/java/Java异常.html" beforeDir="false" afterPath="$PROJECT_DIR$/后端/java/Java异常.html" afterDir="false" />
@@ -148,6 +153,7 @@
       <change beforePath="$PROJECT_DIR$/数学/三、矩阵.html" beforeDir="false" afterPath="$PROJECT_DIR$/数学/三、矩阵.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/数学/二、向量.html" beforeDir="false" afterPath="$PROJECT_DIR$/数学/二、向量.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/数学/地学建模/地学建模.html" beforeDir="false" afterPath="$PROJECT_DIR$/数学/地学建模/地学建模.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数学/高等数学.html" beforeDir="false" afterPath="$PROJECT_DIR$/数学/高等数学.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/数据库/3DCityDB用户手册.html" beforeDir="false" afterPath="$PROJECT_DIR$/数据库/3DCityDB用户手册.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/数据库/3DCityDB简介.html" beforeDir="false" afterPath="$PROJECT_DIR$/数据库/3DCityDB简介.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/数据库/postgre.html" beforeDir="false" afterPath="$PROJECT_DIR$/数据库/postgre.html" afterDir="false" />
@@ -193,7 +199,7 @@
   "customColor": "",
   "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2bGObzlMnwqkhMsqdqaTvUsdJ9a" />
+  <component name="ProjectId" id="2cwEtSlN3pxLwcgCujFI0VrSNc6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -204,19 +210,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/project/newLecture",
+    "last_opened_file_path": "F:/project/newLecture/docs",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="9e4ff816-2324-45c2-ad25-4f4b61ea1841" name="更改" comment="" />
-      <created>1705838024320</created>
+      <changelist id="9420335a-0300-4f7d-8a88-be03e51745ab" name="更改" comment="" />
+      <created>1709014454954</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1705838024320</updated>
-      <workItem from="1705838025333" duration="239000" />
+      <updated>1709014454954</updated>
+      <workItem from="1709014455953" duration="45000" />
     </task>
     <servers />
   </component>

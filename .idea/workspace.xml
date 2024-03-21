@@ -1,8 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9420335a-0300-4f7d-8a88-be03e51745ab" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="cd48e1fb-cfce-4628-83d5-525a473e6238" name="更改" comment="20240321~实验室电脑更改七~随心笔笔记">
+      <change afterPath="$PROJECT_DIR$/GIS/Cesium/Cesium新特性总结.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GIS/CesiumLab/CesiumLab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/2021-02-16-denver-unreal.c4c8cf24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/43af57f0-6063-40c2-9f10-6f7f7dbca238_Melbourne_ion_QGIS.3518ae41.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/91e4ea3a-0983-4cae-b725-6d7e98a2aa6f_Travel_Time_Cesium_HQ.c12889df.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GIS_CesiumLab_CesiumLab.md.0870ffaf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GIS_CesiumLab_CesiumLab.md.0870ffaf.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumJS.md.fb5aa8c0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumJS.md.fb5aa8c0.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GIS_Cesium_Cesium新特性总结.md.f25dc7e5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GIS_Cesium_Cesium新特性总结.md.f25dc7e5.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Video_2024-03-15_160707-1710490628713-2.273b9179.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Video_2024-03-15_160707.bc437a25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/app.46a0e06e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/c938f06e-e789-4951-a9c2-2138b351f644_Inverse_Classification.8ef3dd22.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.47ffb629.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.926758f8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/theme.8dc5d740.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240227114335249.962b7eeb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240304110805282.68f13400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240304110909498.dbf971f5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240304223149036.f6def4b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240305155703335.0a39ea4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240305160328869.1fc86697.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240306212629859.b88c0733.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240306212645301.cf5c9fa7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240306212707903.996e74ab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240306212739733.eb6cb922.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240306212808695.a8cea432.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240306214959109.e697ce5c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240306215307824.47acbf04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307105434872.2c230419.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307105459299.dabcb8ba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307112645590.632c4e2a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307113248702.dd20b939.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307113635941.27d07b85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307114401182.620dbc40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307154950048.27bbb109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307155221032.2bc8873a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307163014840.fb5dfd5b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307164116560.326250d6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307164216861.59984c2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307165415869.4addc5e7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240307165601781.1f88958d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240311095836809.b9e92221.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240311204337084.05d7a68e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240312144941133.42135949.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240312211630615.a643bfbb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240313222830775.0577f0a0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240315161527913.cfcb50d4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240315172817593.ab56eade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240315172841102.714830bd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240316101007165.1a126f20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240316101050122.f521cf8b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240316101351548.ccf62375.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240316101403668.9ca6876c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/个人_其他_Proxy与defineProperty.md.c8d48a2f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/个人_其他_Proxy与defineProperty.md.c8d48a2f.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/个人_常识_地统计相关.md.9f59f71b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/个人_常识_地统计相关.md.9f59f71b.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/数学_地学建模_地学建模.md.bfb9102e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/数学_地学建模_地学建模.md.bfb9102e.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-CSS_202310CSS.md.56cf8a81.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-CSS_202310CSS.md.56cf8a81.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-HTML_202310HTML.md.d8561ebc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-HTML_202310HTML.md.d8561ebc.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-JavaScript_202310JavaScript.md.55f4d992.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-JavaScript_202310JavaScript.md.55f4d992.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-JavaScript_202311JavaScript.md.04d90da7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-JavaScript_202311JavaScript.md.04d90da7.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-JavaScript_202312JavaScript.md.afccad8a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-JavaScript_202312JavaScript.md.afccad8a.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-JavaScript_202403.md.4bdf0988.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-JavaScript_202403.md.4bdf0988.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-JavaScript_正则表达式.md.e4958b36.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-JavaScript_正则表达式.md.e4958b36.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-VUE_202403.md.a85495f4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/面试题_面试题-VUE_202403.md.a85495f4.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/个人/其他/Proxy与defineProperty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/个人/常识/地统计相关.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/面试题-CSS/202310CSS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/面试题-HTML/202310HTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/面试题-JavaScript/202310JavaScript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/面试题-JavaScript/202311JavaScript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/面试题-JavaScript/202312JavaScript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/面试题-JavaScript/202403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/面试题-JavaScript/正则表达式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/面试题-VUE/202403.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker/Docker.html" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Docker.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/Cesium/3DTiles规范解读.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/3DTiles规范解读.html" afterDir="false" />
@@ -36,12 +127,24 @@
       <change beforePath="$PROJECT_DIR$/GIS/遥感/基础概论.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/基础概论.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/遥感/常见卫星和影像.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/常见卫星和影像.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIT/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIT/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/app.df510153.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.926964dd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.b8429708.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/theme.ac647cbd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.md.b76f115c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.md.b76f115c.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumJS.md.5f80d5e7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumJS.md.5f80d5e7.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app.ae21de46.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.17bb018f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.033e78d5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/theme.2cd6c952.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/数学_地学建模_地学建模.md.dee06d43.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/数学_地学建模_地学建模.md.dee06d43.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/面试题_2023_202310CSS.md.f058e397.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/面试题_2023_202310CSS.md.f058e397.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/面试题_2023_202310HTML.md.a72a0236.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/面试题_2023_202310HTML.md.a72a0236.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/面试题_2023_202310JavaScript.md.71db2cd9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/面试题_2023_202310JavaScript.md.71db2cd9.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/面试题_2023_202311JavaScript.md.7d604aea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/面试题_2023_202311JavaScript.md.7d604aea.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/面试题_2023_202312JavaScript.md.5aa58f6f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/面试题_2023_202312JavaScript.md.5aa58f6f.lean.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python/Geo相关/GeoPandas.html" beforeDir="false" afterPath="$PROJECT_DIR$/python/Geo相关/GeoPandas.html" afterDir="false" />
@@ -64,7 +167,12 @@
       <change beforePath="$PROJECT_DIR$/个人/个人/本科毕设.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/个人/本科毕设.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/其他/2023前端生态.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/2023前端生态.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/其他/WEBGIS随心笔记.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/WEBGIS随心笔记.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/个人/其他/WebAssembly和JavaScript.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/WebAssembly和JavaScript.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/个人/其他/consoleLog玩法.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/consoleLog玩法.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/其他/jeecgVue.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/jeecgVue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/个人/其他/mysql-JavaScript.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/mysql-JavaScript.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/个人/其他/shadcnUI.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/shadcnUI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/个人/其他/三维场景可视化网站架构设计.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/三维场景可视化网站架构设计.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/常识/GIS及计算机.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/常识/GIS及计算机.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/常识/图形学.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/常识/图形学.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/JS/基础/JS基础.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/JS/基础/JS基础.html" afterDir="false" />
@@ -84,6 +192,7 @@
       <change beforePath="$PROJECT_DIR$/前端/JS/进阶/正则表达式.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/JS/进阶/正则表达式.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/JS/进阶/箭头函数.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/JS/进阶/箭头函数.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/VitePress/VitePress.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/VitePress/VitePress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/VitePress/修改本地域名映射.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/VitePress/修改本地域名映射.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/axios/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/axios/lecture.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/html/H5.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/html/H5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前端/html/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/html/lecture.html" afterDir="false" />
@@ -181,11 +290,11 @@
       <change beforePath="$PROJECT_DIR$/面试题/2023/20230101.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/2023/20230101.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/面试题/2023/20230116.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/2023/20230116.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/面试题/2023/20230201.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/2023/20230201.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试题/2023/202310CSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/2023/202310CSS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试题/2023/202310HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/2023/202310HTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试题/2023/202310JavaScript.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/2023/202310JavaScript.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试题/2023/202311JavaScript.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/2023/202311JavaScript.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试题/2023/202312JavaScript.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/2023/202312JavaScript.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/2023/202310CSS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/2023/202310HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/2023/202310JavaScript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/2023/202311JavaScript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/2023/202312JavaScript.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,11 +304,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
-  <component name="ProjectId" id="2cwEtSlN3pxLwcgCujFI0VrSNc6" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dypLrf9hKKXOQpF3QhbnsBQDVR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -210,23 +319,43 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/project/newLecture/docs",
+    "last_opened_file_path": "F:/project/newLecture/docs/.vitepress/dist",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="9420335a-0300-4f7d-8a88-be03e51745ab" name="更改" comment="" />
-      <created>1709014454954</created>
+      <changelist id="cd48e1fb-cfce-4628-83d5-525a473e6238" name="更改" comment="" />
+      <created>1710990119166</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709014454954</updated>
-      <workItem from="1709014455953" duration="45000" />
+      <updated>1710990119166</updated>
+      <workItem from="1710990120178" duration="180000" />
+      <workItem from="1710990352496" duration="768000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20240321~实验室电脑更改七~随心笔笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240321~实验室电脑更改七~随心笔笔记" />
   </component>
 </project>

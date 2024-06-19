@@ -1,56 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac04c2d0-22e5-43e7-b28a-d7bed5192d36" name="更改" comment="20240515~实验室电脑更改十一~鹰眼图、局域网、天地图加载等">
-      <change afterPath="$PROJECT_DIR$/GIS/GIS数学相关/加载天地图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GIS/GIS数学相关/鹰眼图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/GIS_GIS数学相关_加载天地图.md.b47fd151.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/GIS_GIS数学相关_加载天地图.md.b47fd151.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/GIS_GIS数学相关_鹰眼图.md.eb0e36c2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/GIS_GIS数学相关_鹰眼图.md.eb0e36c2.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/app.c229ee46.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.eb16e7f6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.0988c07f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/chunks/theme.44024a4b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240509185143016.7184bdae.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240509185631197.5eae237f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240509185704325.12f49535.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240510133400168.22fa065a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240510133733001.d5c63f23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240512213752274.93ceed3c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240512213805994.aa9bcf4c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240512214012133.cfa6e88d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240512214024124.d6973cb4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240512214037243.9741fe15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240512214240667.99e0b637.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240512214417207.0cf52f1f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240512214544355.8a17f3ba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240512214602470.c59b2b23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image-20240512214713420.98c01be3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/个人_其他_局域网文件共享.md.7cc62f12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/个人_其他_局域网文件共享.md.7cc62f12.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_人文_202405.md.cf11325c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_人文_202405.md.cf11325c.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_历史_202405.md.6126c739.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_历史_202405.md.6126c739.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_政治_202405.md.00bb3e4b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_政治_202405.md.00bb3e4b.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_法律_202405.md.c6e34f06.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_法律_202405.md.c6e34f06.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_科技_202405.md.80267cf6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_科技_202405.md.80267cf6.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_管理公文_202405.md.676d8d00.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_管理公文_202405.md.676d8d00.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_经济_202405.md.e13d907b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题_华图在线_经济_202405.md.e13d907b.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/个人/其他/局域网文件共享.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题/华图在线/人文/202405.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题/华图在线/历史/202405.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题/华图在线/政治/202405.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题/华图在线/法律/202405.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题/华图在线/科技/202405.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题/华图在线/管理公文/202405.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题/华图在线/经济/202405.html" afterDir="false" />
+    <list default="true" id="d5f1ed90-a517-489e-810f-dad83579c082" name="更改" comment="20240619~实验室电脑更改十二~解决cesium-navigation-es6 和 vite-plugin-cesium版本冲突问题">
+      <change afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumJS/问题总结/插件版本冲突.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumJS_问题总结_插件版本冲突.md.2d96332d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumJS_问题总结_插件版本冲突.md.2d96332d.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/app.75016911.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.783cd0f9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.c31555d9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/theme.cdc85884.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/问题截图.0552cfd2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker/Docker.html" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Docker.html" afterDir="false" />
@@ -78,6 +40,8 @@
       <change beforePath="$PROJECT_DIR$/GIS/GIS常用坐标系及空间分析/GIS常用空间分析.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/GIS常用坐标系及空间分析/GIS常用空间分析.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/GIS常用坐标系及空间分析/常用坐标系及EPSG.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/GIS常用坐标系及空间分析/常用坐标系及EPSG.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/GIS数学相关/ArcMap数学相关.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/GIS数学相关/ArcMap数学相关.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/GIS数学相关/加载天地图.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/GIS数学相关/加载天地图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/GIS数学相关/鹰眼图.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/GIS数学相关/鹰眼图.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/GeoJson/GeoJson格式解读.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/GeoJson/GeoJson格式解读.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/OGC服务/ArcgisServer.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/OGC服务/ArcgisServer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/OGC服务/GeoserverWFS.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/OGC服务/GeoserverWFS.html" afterDir="false" />
@@ -90,12 +54,10 @@
       <change beforePath="$PROJECT_DIR$/GIS/遥感/常见遥感影像.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/常见遥感影像.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/遥感/影像处理.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/影像处理.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIT/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIT/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/app.f551c138.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.e2e23f49.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.d70f295f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/theme.83a3d8f7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hinataLight.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/hinataLight.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hinataMoon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/hinataMoon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app.c229ee46.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.eb16e7f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.0988c07f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/theme.44024a4b.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python/Geo相关/GeoPandas.html" beforeDir="false" afterPath="$PROJECT_DIR$/python/Geo相关/GeoPandas.html" afterDir="false" />
@@ -125,6 +87,7 @@
       <change beforePath="$PROJECT_DIR$/个人/其他/mysql-JavaScript.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/mysql-JavaScript.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/其他/shadcnUI.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/shadcnUI.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/其他/三维场景可视化网站架构设计.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/三维场景可视化网站架构设计.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/个人/其他/局域网文件共享.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/其他/局域网文件共享.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/常识/GIS及计算机.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/常识/GIS及计算机.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/常识/UML图.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/常识/UML图.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/个人/常识/图形学.html" beforeDir="false" afterPath="$PROJECT_DIR$/个人/常识/图形学.html" afterDir="false" />
@@ -247,6 +210,13 @@
       <change beforePath="$PROJECT_DIR$/面试题/2023/20230201.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/2023/20230201.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/面试题/华图在线/202403.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/华图在线/202403.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/面试题/华图在线/202404.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/华图在线/202404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/华图在线/人文/202405.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/华图在线/人文/202405.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/华图在线/历史/202405.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/华图在线/历史/202405.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/华图在线/政治/202405.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/华图在线/政治/202405.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/华图在线/法律/202405.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/华图在线/法律/202405.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/华图在线/科技/202405.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/华图在线/科技/202405.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/华图在线/管理公文/202405.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/华图在线/管理公文/202405.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/华图在线/经济/202405.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/华图在线/经济/202405.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/面试题/面试题-CSS/202310CSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/面试题-CSS/202310CSS.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/面试题/面试题-HTML/202310HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/面试题-HTML/202310HTML.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/面试题/面试题-JavaScript/202310JavaScript.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/面试题-JavaScript/202310JavaScript.html" afterDir="false" />
@@ -269,7 +239,7 @@
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2gUMhsEY9mPhDS7jjlKzOouvOnu" />
+  <component name="ProjectId" id="2i698wTHyVNlnpsBObV0MgNgYF0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -291,13 +261,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="ac04c2d0-22e5-43e7-b28a-d7bed5192d36" name="更改" comment="" />
-      <created>1715747824853</created>
+      <changelist id="d5f1ed90-a517-489e-810f-dad83579c082" name="更改" comment="" />
+      <created>1718800003509</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715747824853</updated>
-      <workItem from="1715747825882" duration="132000" />
-      <workItem from="1715748166736" duration="405000" />
+      <updated>1718800003509</updated>
+      <workItem from="1718800004527" duration="93000" />
+      <workItem from="1718800099413" duration="1528000" />
     </task>
     <servers />
   </component>
@@ -316,7 +286,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20240515~实验室电脑更改十一~鹰眼图、局域网、天地图加载等" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240515~实验室电脑更改十一~鹰眼图、局域网、天地图加载等" />
+    <MESSAGE value="20240619~实验室电脑更改十二~解决cesium-navigation-es6 和 vite-plugin-cesium版本冲突问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240619~实验室电脑更改十二~解决cesium-navigation-es6 和 vite-plugin-cesium版本冲突问题" />
   </component>
 </project>

@@ -4,15 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5f1ed90-a517-489e-810f-dad83579c082" name="更改" comment="20240619~实验室电脑更改十二~解决cesium-navigation-es6 和 vite-plugin-cesium版本冲突问题">
-      <change afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumJS/问题总结/插件版本冲突.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumJS_问题总结_插件版本冲突.md.2d96332d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/GIS_Cesium_CesiumJS_问题总结_插件版本冲突.md.2d96332d.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/app.75016911.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.783cd0f9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.c31555d9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/chunks/theme.cdc85884.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/问题截图.0552cfd2.png" afterDir="false" />
+    <list default="true" id="1efac378-4c8b-4838-8e97-7b461738f5b9" name="更改" comment="20240709-实验室电脑更改十三~增加计算机硬件等，后续陆续增加算法方面。">
+      <change afterPath="$PROJECT_DIR$/assets/app.4f0d6f0b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.0783a2a1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.7569a705.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/theme.7b599735.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240705110208515.d2c5d4cc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240705110427893.78f31a7a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240705122358714.78332fc6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240705133643400.2a77a485.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image-20240705133820719.07667f07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/python_Conda_Conda.md.162a35ad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/python_Conda_Conda.md.162a35ad.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/python_JupyterNotebook_JupyterNotebook.md.23c2c88e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/python_JupyterNotebook_JupyterNotebook.md.23c2c88e.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/个人_常识_计算机硬件.md.3386dbcc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/个人_常识_计算机硬件.md.3386dbcc.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Conda/Conda.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/JupyterNotebook/JupyterNotebook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/个人/常识/计算机硬件.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker/Docker.html" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Docker.html" afterDir="false" />
@@ -35,6 +45,7 @@
       <change beforePath="$PROJECT_DIR$/GIS/Cesium/CesiumJS/初始化.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumJS/初始化.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/Cesium/CesiumJS/坐标.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumJS/坐标.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/Cesium/CesiumJS/常见功能效果图.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumJS/常见功能效果图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIS/Cesium/CesiumJS/问题总结/插件版本冲突.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/CesiumJS/问题总结/插件版本冲突.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/Cesium/Cesium新特性总结/Cesium新特性总结.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/Cesium/Cesium新特性总结/Cesium新特性总结.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/CesiumLab/CesiumLab.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/CesiumLab/CesiumLab.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/GIS常用坐标系及空间分析/GIS常用空间分析.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/GIS常用坐标系及空间分析/GIS常用空间分析.html" afterDir="false" />
@@ -54,10 +65,10 @@
       <change beforePath="$PROJECT_DIR$/GIS/遥感/常见遥感影像.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/常见遥感影像.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIS/遥感/影像处理.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIS/遥感/影像处理.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GIT/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/GIT/lecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/app.c229ee46.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.eb16e7f6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.0988c07f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/theme.44024a4b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app.75016911.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.783cd0f9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.c31555d9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/theme.cdc85884.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python/Geo相关/GeoPandas.html" beforeDir="false" afterPath="$PROJECT_DIR$/python/Geo相关/GeoPandas.html" afterDir="false" />
@@ -239,7 +250,7 @@
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2i698wTHyVNlnpsBObV0MgNgYF0" />
+  <component name="ProjectId" id="2j03X5Br7hcfho3Vpwet8BETSRk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -261,32 +272,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="d5f1ed90-a517-489e-810f-dad83579c082" name="更改" comment="" />
-      <created>1718800003509</created>
+      <changelist id="1efac378-4c8b-4838-8e97-7b461738f5b9" name="更改" comment="" />
+      <created>1720510203570</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1718800003509</updated>
-      <workItem from="1718800004527" duration="93000" />
-      <workItem from="1718800099413" duration="1528000" />
+      <updated>1720510203570</updated>
+      <workItem from="1720510204581" duration="204000" />
+      <workItem from="1720510850071" duration="1068000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20240619~实验室电脑更改十二~解决cesium-navigation-es6 和 vite-plugin-cesium版本冲突问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240619~实验室电脑更改十二~解决cesium-navigation-es6 和 vite-plugin-cesium版本冲突问题" />
+    <MESSAGE value="20240709-实验室电脑更改十三~增加计算机硬件等，后续陆续增加算法方面。" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240709-实验室电脑更改十三~增加计算机硬件等，后续陆续增加算法方面。" />
   </component>
 </project>

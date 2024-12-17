@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BQmytedh.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"前端/vue/共用/pinia.md","filePath":"前端/vue/共用/pinia.md","lastUpdated":null}'),n={name:"前端/vue/共用/pinia.md"};function i(r,o,s,p,c,d){return a(),t("div")}const m=e(n,[["render",i]]);export{l as __pageData,m as default};

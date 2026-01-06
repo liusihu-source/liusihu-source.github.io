@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BQmytedh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"计算机/设计模式/设计模式.md","filePath":"计算机/设计模式/设计模式.md","lastUpdated":1767706259000}'),r={name:"计算机/设计模式/设计模式.md"};function o(s,c,n,_,d,p){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BQmytedh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"计算机/计算机系统/计算机系统.md","filePath":"计算机/计算机系统/计算机系统.md","lastUpdated":1767866075000}'),r={name:"计算机/计算机系统/计算机系统.md"};function o(s,_,c,n,d,p){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};

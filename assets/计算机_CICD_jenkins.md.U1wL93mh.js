@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.BQmytedh.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"计算机/CICD/jenkins.md","filePath":"计算机/CICD/jenkins.md","lastUpdated":null}'),a={name:"计算机/CICD/jenkins.md"};function s(r,o,c,i,d,p){return n(),t("div")}const m=e(a,[["render",s]]);export{l as __pageData,m as default};
